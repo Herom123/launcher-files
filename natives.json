@@ -1,0 +1,11 @@
+{"download":[
+"natives/1.8.9/jinput-dx8.dll",
+"natives/1.8.9/jinput-dx8_64.dll",
+"natives/1.8.9/jinput-raw.dll",
+"natives/1.8.9/jinput-raw_64.dll",
+"natives/1.8.9/jinput-wintab.dll",
+"natives/1.8.9/lwjgl.dll",
+"natives/1.8.9/lwjgl64.dll",
+"natives/1.8.9/OpenAL32.dll",
+"natives/1.8.9/OpenAL64.dll"
+]}
