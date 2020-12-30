@@ -1,4 +1,4 @@
 {"download":[
-"addons/ArrowTrail-1.0.jar",
-"addons/DiscordRPAddon-1.0-SNAPSHOT.jar"
+{"path":"addons","file":"ArrowTrail-1.0.jar"},
+{"path":"addons","file":"DiscordRPAddon-1.0-SNAPSHOT.jar"}
 ]}
